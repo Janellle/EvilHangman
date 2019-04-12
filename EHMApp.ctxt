@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=userInput\ hangmanWords\ numGuesses\ answer
+comment1.target=void\ play(java.util.Scanner,\ Dictionary,\ int,\ java.lang.String)
+comment2.params=hangmanWords
+comment2.target=boolean\ endGame(Dictionary)
+numComments=3
